@@ -10,7 +10,7 @@ def create_contact(contacts):
         "age": int(age),
         "email": email,
         "mobile": mobile
-    }
+    } 
     print(f"Contact name {name} has been created successfully!")
 def view_contact(contacts):
     name = input("Enter contact name to view = ")
