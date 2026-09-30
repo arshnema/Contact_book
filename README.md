@@ -103,12 +103,6 @@ The contacts are stored temporarily using a Python dictionary while the program 
 
 The current version does not use a database, so the contacts are removed when the program is closed.
 
-## Repository
-
-GitHub Repository:
-
-https://github.com/amiti4359-ui/Contact_Book
-
 ## Author
 
 Created as a first-year BTech Python project.
